@@ -1,4 +1,4 @@
-AngularFire-FootballTeam
-========================
+thinkster-firebase-tutorial
+===========================
 
-AngularJS + Firebase Tutorial: creazione di un'applicazione per il Fantacalcio.
+This repository is the starting point for the thinkster.io Firebase AngularJS tutorial
