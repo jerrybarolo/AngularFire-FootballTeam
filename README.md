@@ -1,4 +1,4 @@
-thinkster-firebase-tutorial
+Tutorial from thinkster-firebase
 ===========================
 
-This repository is the starting point for the thinkster.io Firebase AngularJS tutorial
+This repository is my working point for the thinkster.io Firebase AngularJS tutorial
